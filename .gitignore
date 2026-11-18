@@ -1,0 +1,8 @@
+*.o
+*.d
+ex00/convert
+ex00/ex00_tester
+ex01/serialize
+ex01/ex01_tester
+ex02/identify
+ex02/ex02_tester
